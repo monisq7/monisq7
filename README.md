@@ -74,16 +74,6 @@ Data Analysis • Data Visualization • Feature Engineering • Statistical Mod
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monisq7&show_icons=true))
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
-
----
-
 ## 🏆 Achievements
 
 ✅ Published Multiple Research Papers in AI/ML
