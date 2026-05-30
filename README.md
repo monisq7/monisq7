@@ -109,7 +109,7 @@ Graduated in 2024
 ## 📫 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/mohammad-monis-khan-398548230
-* Portfolio: portfolio-buoo.vercel.app 
+* Portfolio: https://portfolio-buoo.vercel.app/
 * Email: Kmonis48@gmail.com
 
 ---
